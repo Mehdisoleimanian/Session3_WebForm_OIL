@@ -18,7 +18,7 @@ namespace CDUR_WebForm_OIL
         protected void Button1_Click(object sender, EventArgs e)
         {
             // Session["Name"] = lblName.Text;
-            Response.Redirect("Order_Detail.aspx?Name=" + lblName.Text+ lblPrice.Text );
+            Response.Redirect("Order_Detail.aspx?Name=?Price=" + lblName.Text+ lblPrice.Text );
         }
     }
 }
