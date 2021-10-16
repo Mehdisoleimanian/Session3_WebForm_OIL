@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDUR_WebForm_OIL", "CDUR_WebForm_OIL\CDUR_WebForm_OIL.csproj", "{D1A78E5F-70C8-4E09-8D13-8D56CB9128D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1A78E5F-70C8-4E09-8D13-8D56CB9128D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A78E5F-70C8-4E09-8D13-8D56CB9128D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A78E5F-70C8-4E09-8D13-8D56CB9128D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A78E5F-70C8-4E09-8D13-8D56CB9128D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {312CAD62-34E3-45F1-8843-18F33F25DDDF}
+	EndGlobalSection
+EndGlobal
